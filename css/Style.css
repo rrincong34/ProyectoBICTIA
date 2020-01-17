@@ -1,0 +1,95 @@
+.menu{ color: blue; text-align:justify; margin: 0 100px 0 100px}
+.menu:hover {color:red; font-weight:bolder}
+.centrar {
+    display:block; margin: 0 auto;
+}
+
+body{
+    font-size: 14px;
+    text-align: justify;
+    margin:100px;
+    padding: 50px;
+        background-image: url("https://www.muralswallpaper.co.uk/app/uploads/pattern-clouds-pink-and-blue-nursery-plain.jpg");
+        }
+
+
+section {
+   float :left; width: 70%; 
+      outline: solid blue;
+}
+aside
+{float: right; width: 30%;
+    outline: solid blue;
+}
+
+img{
+    margin: 0 auto block;
+}
+
+header{background-color:darkblue; color:yellow; outline: solid blue; text-align: center;
+    font-size: 50px;
+    }
+footer{
+    width:100%;
+    position: relative;
+    margin-top: -30px;
+    /* negative value of footer height */
+    height: 30px;
+    clear: both;
+    outline: solid blue;
+    background-color: white;
+}
+    h1{color:orange;
+font-size: 50px;
+}
+
+h2{color:cornflowerblue;
+    font-size: 30px;
+}
+
+h3{
+    color:blue;
+font-size: 20px
+}
+ul{
+    list-style-type: square
+}
+
+iframe {
+        width: 70%;
+        margin:0;
+        display: block;
+    }
+video{width: 70%;
+        margin:0;
+        display: block;
+        
+    }
+table{
+    width:50%;
+    margin:auto;
+    font-size: 15px;
+    text-align: center;
+}
+table, td, th{
+    border: 1px solid black;
+    border-collapse:separate;
+}    
+input{
+    margin:5px;
+}
+label{
+    font-weight: bold;
+}
+#rightback {background-color:black; color:white}
+
+#highlight {background-color: yellow;color:black}
+
+#leftback {background-color:cornflowerblue ; color:black}
+
+#subtittle {font-size:20px;font-weight: bold}
+
+#navegador {background-color: white; font-size:20px; outline: solid blue; text-align: justify;}
+
+/* paletton.com para escoger paletas de colores adecuadas*/
+
